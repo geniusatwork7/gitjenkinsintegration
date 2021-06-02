@@ -1,0 +1,18 @@
+git config --global user.email "wihev40574@jmpant.com"
+git config --global user.name "Gaurav"
+
+
+git init
+
+git status
+
+git add .
+
+git commit -m "add myfile.py"
+
+git remote add origin https://github.com/wihev40574/gitjenkinsintegration.git
+
+git push -u origin master 
+
+
+https://www.youtube.com/watch?v=h8gbk7coq5g
